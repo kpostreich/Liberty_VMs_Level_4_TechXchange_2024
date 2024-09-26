@@ -1,0 +1,8 @@
+site_name: Modernizing Applications with WebSphere Liberty on VMs Level 4
+nav:
+  - Home: index.md
+  - Quizzes: quiz.md
+  - Hands-on Labs: day1.md
+  - How to access the lab environment in IBM Techzone: lab-env.md
+theme: readthedocs  
+extra_css: ["extra.css"]
