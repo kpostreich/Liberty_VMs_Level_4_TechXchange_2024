@@ -10,10 +10,12 @@ Time: 10:30 am - 6:00 pm
 
 This is a 1 day technical learning journey.  
 
+[Slack channel: #tx-weekend-liberty-on-vms-2024](https://ibm.enterprise.slack.com/archives/C07GGS01Q93)
+
 [Download Course Description and Agenda:](https://ibm.box.com/s/spiyymafnvmmo0932eyk1agbxxetmovq) 
   
   - Refer to the **"Hands-on Labs"** menu item from the left-navigation section to access the lab guides and lab environment. 
-  
+   
 
   
 <h3 style="color:black">Proposed Agenda</h3>

@@ -28,4 +28,10 @@ Time  | Session  | Primary speaker
   - LAB01: [Liberty Standalone Installation Guide](TBD)
 
   - LAB02: [Liberty Collective Installation Guide](TBD)
+  
+  
+### Document of Understanding 
+
+ - PoC DoU document: [KLP-L4-RuntimeMod-PoC-DOU-v2.0](https://ibm.box.com/s/p0u72nzz85tdmg1hsk4awrpgx1zp1tbx)
+ 
  
