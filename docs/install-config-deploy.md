@@ -25,7 +25,7 @@
   
 ### Install-config-deploy quiz
   
- - Quiz: [Liberty installation & confguration quiz](https://ibm.box.com/s/vwtz8fp53bh2fqcsb6j4u10363iwy0iw)
+ - Quiz: [Liberty installation & confguration quiz](https://ibm.box.com/s/e9160atlgf8ym5tz7mz9b2exs032wdwy)
  
  
 ### Presentation

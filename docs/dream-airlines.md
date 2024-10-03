@@ -8,5 +8,5 @@
 
 ### Quiz
 
-  - Quiz: [Dream Airlines scenario quiz](https://ibm.box.com/s/jnj5oi87ef2pzehlktqjk8cfz7l0l6rs)
+  - Quiz: [Dream Airlines scenario quiz](https://ibm.box.com/s/3nvokj08m1uifc37zlm7vnejoom1hkyz)
  

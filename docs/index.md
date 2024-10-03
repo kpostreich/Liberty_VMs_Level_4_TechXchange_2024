@@ -12,7 +12,7 @@ This is a 1 day technical learning journey.
 
 [Slack channel: #tx-weekend-liberty-on-vms-2024](https://ibm.enterprise.slack.com/archives/C07GGS01Q93)
 
-[Download Course Description and Agenda:](https://ibm.box.com/s/spiyymafnvmmo0932eyk1agbxxetmovq) 
+[Download Course Description and Agenda here:](https://ibm.box.com/s/476krxn897gy0wtnhm4cumf6bvmoduuz) 
   
   - Refer to the **"Hands-on Labs"** menu item from the left-navigation section to access the lab guides and lab environment. 
    
